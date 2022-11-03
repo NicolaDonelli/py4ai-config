@@ -1,0 +1,3 @@
+cfg-load>=0.8
+setuptools>=61.2
+tomli>=2.0.1
